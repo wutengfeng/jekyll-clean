@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: My blog
-description: wutengfeng
+name: wutengfeng
+description: wutengfeng的个人博客
 
 # url is currently only used only for the RSS feed in feed.xml
 url: http://wutengfeng.github.io/jekyll-clean
